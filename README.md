@@ -46,4 +46,11 @@
 
 ---
 
-### ✨ *“In a galaxy of data, I choose to be the guardian of insights.”* 🚀  
+   <p align="center">
+  <img src="https://media.giphy.com/media/12bg0k9kPz0yKQ/giphy.gif" width="250"/>
+</p>
+
+---
+
+### ✨ “Do. Or do not. There is no try. Especially when analyzing data.”  
+> — Master Yoda (with a dash of Data Science wisdom)
