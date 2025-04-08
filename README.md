@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-
-<div>
+<table>
+  <tr>
+    <td style="min-width: 400px; vertical-align: top;">
 
 ### 👋 Hi there, welcome to my GitHub!
 
@@ -10,11 +10,12 @@ Focused on Data Analysis and Cybersecurity.
 Passionate about data, obsessed with finding insights, and always alert when it comes to cybersecurity.  
 Sometimes I analyze data like a calm Jedi 🧘‍♀️... and other times, like a cat smashing the keyboard 🐱💥
 
-</div>
-
-<img src="baby-yoda.gif" width="200" alt="Angry cat typing on keyboard">
-
-</div>
+</td>
+    <td>
+      <img src="angry-cat.gif" width="200" alt="Angry cat typing on keyboard">
+    </td>
+  </tr>
+</table>
 
 ---
 
