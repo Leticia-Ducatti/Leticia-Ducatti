@@ -46,11 +46,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/126641361/235391095-8b9fcb3f-2e08-47d1-8026-064a688e63e2.gif" width="250" alt="Yoda GIF">
-</p>
-
 ---
 
-### ✨ “Do. Or do not. There is no try. Especially when analyzing data.”  
-> — Master Yoda (with a dash of Data Science wisdom)
+<p align="center">
+  <img src="baby-yoda.gif" width="250" alt="Baby Yoda using the Force">
+</p>
+
+<h3 align="center">✨ “Do. Or do not. There is no try. Especially when analyzing data.”<br>
+<em>— Master Yoda (with a dash of Data Science wisdom)</em> 🧠⚔️</h3> 
