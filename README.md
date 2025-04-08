@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Letícia Pereira Ducatti
 
-🎓 Computer Science undergraduate (2nd semester)  
+🎓 Computer Science undergraduate 
 📊 Passionate about data, analytics and digital security  
 🔐 Exploring the intersection between **Data Analysis** and **Cryptography**  
 🐍 Building interactive projects with Python, Streamlit, Pandas and SQL
