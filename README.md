@@ -45,9 +45,8 @@
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:leticia.ducatti@outlook.com)
 
 ---
-
-   <p align="center">
-  <img src="https://media.giphy.com/media/12bg0k9kPz0yKQ/giphy.gif" width="250"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/12bg0k9kPz0yKQ/giphy.gif" width="250" alt="Yoda GIF">
 </p>
 
 ---
