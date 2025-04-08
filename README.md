@@ -44,8 +44,10 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Leticia-Ducatti)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:leticia.ducatti@outlook.com)
 
+---
+
 <p align="center">
-  <img src="https://github.com/Leticia-Ducatti/sales-dashboard-project/assets/126641361/0c7c42f5-8a45-4e82-8a77-d9cf263dbf3f" width="250" alt="Yoda coding GIF">
+  <img src="https://user-images.githubusercontent.com/126641361/235391095-8b9fcb3f-2e08-47d1-8026-064a688e63e2.gif" width="250" alt="Yoda GIF">
 </p>
 
 ---
