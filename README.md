@@ -46,7 +46,6 @@
 
 ---
 
----
 
 <p align="center">
   <img src="baby-yoda.gif" width="250" alt="Baby Yoda using the Force">
