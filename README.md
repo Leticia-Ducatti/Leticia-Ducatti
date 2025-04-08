@@ -1,14 +1,22 @@
-# 👋 Hi there, welcome to my GitHub!
-
-Bachelor's Degree in Computer Science | Focused on Data Analysis and Cybersecurity
-
-<p align="right">
-  <img src="angry-cat.gif" width="180" alt="Angry cat typing on keyboard">
-</p>
-
-Passionate about data, obsessed with finding insights, and always alert when it comes to cybersecurity.  
+<table>
+  <tr>
+    <td>
+      <h1>👋 Hi there, welcome to my GitHub!</h1>
+      <p>
+        <strong>Bachelor's Degree in Computer Science</strong><br>
+        Focused on Data Analysis and Cybersecurity.<br><br>
+        Passionate about data, obsessed with finding insights, and always alert when it comes to cybersecurity.<br>
+        Sometimes I analyze data like a calm Jedi 🧘‍♀️... and other times, like a cat smashing the keyboard. 🐱💥
+      </p>
+    </td>
+    <td>
+      <img src="angry-cat.gif" width="200" alt="Angry cat typing on keyboard">
+    </td>
+  </tr>
+</table>
 
 ---
+
 ### ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
