@@ -34,7 +34,12 @@ Sometimes I analyze data like a calm Jedi 🧘‍♀️... and other times, like
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### 🔐 Cybersecurity & Cryptography
+
 ![Cryptography](https://img.shields.io/badge/-Cryptography-2D3748?style=flat-square&logo=gnupg&logoColor=white)
+![PyCryptodome](https://img.shields.io/badge/-PyCryptodome-2D3748?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/-Cryptography-2D3748?style=flat-square&logo=python&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/-OpenSSL-2D3748?style=flat-square&logo=openssl&logoColor=white)
+![GPG](https://img.shields.io/badge/-GPG-2D3748?style=flat-square&logo=gnupg&logoColor=white)
 
 ### 🚀 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
