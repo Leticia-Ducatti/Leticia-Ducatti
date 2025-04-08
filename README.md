@@ -1,11 +1,8 @@
 
 
-# 👋 Hi there! 
+# 👋 Hi there, welcome to my GitHub!
 
-🎓 Computer Science undergraduate 
-📊 Passionate about data, analytics and digital security  
-🔐 Exploring the intersection between **Data Analysis** and **Cryptography**  
-🐍 Building interactive projects with Python, Streamlit, Pandas and SQL
+Bachelor's Degree in Computer Science | Focused on Data Analysis and Cybersecurity
 
 ---
 
