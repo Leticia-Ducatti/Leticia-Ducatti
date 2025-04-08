@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hello.gif" width="300" alt="Hello GIF">
+</p>
+
 <table>
   <tr>
     <td style="min-width: 400px; vertical-align: top;">
