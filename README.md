@@ -1,6 +1,6 @@
 
 
-# 👋 Hi there! I'm Letícia Pereira Ducatti
+# 👋 Hi there! 
 
 🎓 Computer Science undergraduate 
 📊 Passionate about data, analytics and digital security  
