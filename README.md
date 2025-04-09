@@ -53,8 +53,10 @@ Sometimes I analyze data like a calm Jedi 🧘‍♀️... and other times, like
 - [📊 Sales Dashboard (Streamlit)](https://github.com/Leticia-Ducatti/sales-dashboard-project)  
   Interactive dashboard with KPIs, filters, and beautiful visuals using Plotly and Streamlit.
 
-- *(coming soon)* 🔐 Password analytics & encryption project with Python and hash algorithms
+- [🔐 Crypto Message App](https://github.com/Leticia-Ducatti/secure-msg-app)  
+  Interactive Streamlit app that demonstrates how AES and RSA encryption work to protect messages in a user-friendly interface.
 
+- *(coming soon)* 🔐 Password analytics & encryption project with Python and hash algorithms
 ---
 
 ### 📚 Courses & Certifications
