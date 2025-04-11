@@ -21,29 +21,29 @@ Sometimes I analyze data like a calm Jedi 🧘‍♀️... and other times, like
   </tr>
 </table>
 
----
 
+---
 ### ⚡ Tech Stack
 
-
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)  
+![Faker](https://img.shields.io/badge/-Faker-2D3748?style=flat-square&logo=python&logoColor=white)
 
 ### 🔐 Cybersecurity & Cryptography
 
-![Cryptography](https://img.shields.io/badge/-Cryptography-2D3748?style=flat-square&logo=gnupg&logoColor=white)
-![PyCryptodome](https://img.shields.io/badge/-PyCryptodome-2D3748?style=flat-square&logo=python&logoColor=white)
-![Cryptography](https://img.shields.io/badge/-Cryptography-2D3748?style=flat-square&logo=python&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/-OpenSSL-2D3748?style=flat-square&logo=openssl&logoColor=white)
+![Cryptography](https://img.shields.io/badge/-Cryptography-2D3748?style=flat-square&logo=gnupg&logoColor=white)  
+![PyCryptodome](https://img.shields.io/badge/-PyCryptodome-2D3748?style=flat-square&logo=python&logoColor=white)  
+![OpenSSL](https://img.shields.io/badge/-OpenSSL-2D3748?style=flat-square&logo=openssl&logoColor=white)  
 ![GPG](https://img.shields.io/badge/-GPG-2D3748?style=flat-square&logo=gnupg&logoColor=white)
 
 ### 🚀 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
@@ -56,8 +56,10 @@ Sometimes I analyze data like a calm Jedi 🧘‍♀️... and other times, like
 - [🔐 Crypto Message App](https://github.com/Leticia-Ducatti/secure-msg-app)  
   Interactive Streamlit app that demonstrates how AES and RSA encryption work to protect messages in a user-friendly interface.
 
+- [🛡️ Data Breach Dashboard](https://github.com/Leticia-Ducatti/data-breach-dashboard)  
+  Simulated data breach explorer focused on data privacy education with filters and interactive visualizations.
+
 - *(coming soon)* 🔐 Password analytics & encryption project with Python and hash algorithms
----
 
 ### 📚 Courses & Certifications
 
