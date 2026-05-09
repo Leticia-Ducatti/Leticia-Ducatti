@@ -1,86 +1,101 @@
 <p align="center">
-  <img src="hello.gif" width="300" alt="Hello GIF">
+  <img src="baby-yoda.gif" width="250" alt="Baby Yoda">
 </p>
 
-<table>
-  <tr>
-    <td style="min-width: 400px; vertical-align: top;">
+# Letícia Ducatti
 
-### 👋 Hi there, welcome to my GitHub!
+## Data Scientist | AI Security Researcher | Machine Learning Robustness
 
-**Bachelor's Degree in Computer Science**  
-Focused on Data Analysis and Cybersecurity.
+Computer Science and Mathematics background focused on Data Science and Cybersecurity, with strong foundations in linear algebra, probability, statistics, graph theory, and Topological Data Analysis (TDA).
 
-Passionate about data, obsessed with finding insights, and always alert when it comes to cybersecurity.  
-Sometimes I analyze data like a calm Jedi 🧘‍♀️... and other times, like a cat smashing the keyboard 🐱💥
-
-</td>
-    <td>
-      <img src="angry-cat.gif" width="200" alt="Angry cat typing on keyboard">
-    </td>
-  </tr>
-</table>
-
+I work at the intersection of machine learning, cybersecurity, and data-driven systems, focusing on building robust, interpretable, and secure analytical models.
 
 ---
 
-### ⚡ Tech Stack  
+### Featured Projects
+
+- opoQKD - Quantum Key Distribution Simulator  
+  Simulation of BB84 quantum key distribution under realistic noise models and intercept-resend attacks, with robustness mechanisms inspired by redundancy and topological stability concepts.
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+- NeuroScope - Transformer Interpretability Research  
+  Analysis of neural network internals focusing on attention mechanisms, residual streams, and interpretability of high-dimensional representations in transformer models.
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+
+- Data Breach Intelligence Dashboard  
+  Cybersecurity analytics platform for exploring simulated breach patterns, risk structures, and sector-based vulnerability analysis through interactive visualization.
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+  ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Faker](https://img.shields.io/badge/-Faker-2D3748?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 🔐 Cybersecurity & Cryptography  
+---
+
+### Cybersecurity and Cryptography
+
 ![Cryptography](https://img.shields.io/badge/-Cryptography-2D3748?style=flat-square&logo=gnupg&logoColor=white)
 ![PyCryptodome](https://img.shields.io/badge/-PyCryptodome-2D3748?style=flat-square&logo=python&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/-OpenSSL-2D3748?style=flat-square&logo=openssl&logoColor=white)
 ![GPG](https://img.shields.io/badge/-GPG-2D3748?style=flat-square&logo=gnupg&logoColor=white)
 
-### 🚀 Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+Threat modeling, adversarial machine learning, data poisoning analysis, encryption systems, and secure communication design.
 
 ---
 
-### 🛰️ Projects
+### Projects (ordered by impact)
 
-- [📊 Sales Dashboard (Streamlit)](https://github.com/Leticia-Ducatti/sales-dashboard-project)  
-  Interactive dashboard with KPIs, filters, and beautiful visuals using Plotly and Streamlit.
+- Secure Message System  
+  Hybrid AES and RSA encryption system demonstrating secure communication principles and cryptographic key exchange design.
 
-- [🔐 Crypto Message App](https://github.com/Leticia-Ducatti/secure-msg-app)  
-  Interactive Streamlit app that demonstrates how AES and RSA encryption work to protect messages in a user-friendly interface.
+- Sales Dashboard (Streamlit)  
+  Interactive business intelligence dashboard for KPI analysis and exploratory data visualization.
 
-- [🛡️ Data Breach Dashboard](https://github.com/Leticia-Ducatti/data-breach-dashboard)  
-  Simulated data breach explorer focused on data privacy education with filters and interactive visualizations.
-
-- *(coming soon)* 🔐 Password analytics & encryption project with Python and hash algorithms
+- More projects in AI Security and data systems coming soon
 
 ---
 
-### 📚 Courses & Certifications
+### Courses and Certifications
 
-- Data Engineering Fundamentals — Data Science Academy  
-- Data Science & Artificial Intelligence Fundamentals — DSA  
-- CS260: Introduction to Cryptography and Network Security — Saylor Academy  
-
----
-
-### 📫 Let’s connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ducattileticia)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Leticia-Ducatti)
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:leticia.ducatti@outlook.com)
+- Data Engineering Fundamentals — Data Science Academy
+- Data Science and Artificial Intelligence Fundamentals — Data Science Academy
+- Introduction to Cryptography and Network Security — Saylor Academy
 
 ---
 
+### Contact
+
+LinkedIn | GitHub | Email
+
+---
 
 <p align="center">
-  <img src="baby-yoda.gif" width="250" alt="Baby Yoda using the Force">
+  <img src="baby-yoda.gif" width="250" alt="Baby Yoda">
 </p>
-
-<h3 align="center">✨ “Do. Or do not. There is no try. Especially when analyzing data.”<br>
-<em>— Master Yoda (with a dash of Data Science wisdom)</em> 🧠⚔️</h3> 
