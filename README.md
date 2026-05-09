@@ -85,5 +85,5 @@ LinkedIn | GitHub | Email
 ---
 
 <p align="center">
-  <img src="baby-yoda.gif" width="250" alt="Baby Yoda">
+  <img src="hello.gif" width="250" alt="Hello">
 </p>
