@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="baby-yoda.gif" width="250" alt="Baby Yoda">
+  <img src="hello.gif" width="250" alt="Hello">
 </p>
 
 # Letícia Ducatti
@@ -70,18 +70,6 @@ Threat modeling, adversarial machine learning, data poisoning analysis, encrypti
 
 ---
 
-### Projects (ordered by impact)
-
-- Secure Message System  
-  Hybrid AES and RSA encryption system demonstrating secure communication principles and cryptographic key exchange design.
-
-- Sales Dashboard (Streamlit)  
-  Interactive business intelligence dashboard for KPI analysis and exploratory data visualization.
-
-- More projects in AI Security and data systems coming soon
-
----
-
 ### Courses and Certifications
 
 - Data Engineering Fundamentals — Data Science Academy
@@ -97,5 +85,5 @@ LinkedIn | GitHub | Email
 ---
 
 <p align="center">
-  <img src="baby-yoda.gif" width="250" alt="Baby Yoda">
+  <img src="hello.gif" width="250" alt="Hello">
 </p>
