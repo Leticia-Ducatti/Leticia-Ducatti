@@ -14,20 +14,20 @@ I work at the intersection of machine learning, cybersecurity, and data-driven s
 
 ### Featured Projects
 
-- opoQKD - Quantum Key Distribution Simulator  
-  Simulation of BB84 quantum key distribution under realistic noise models and intercept-resend attacks, with robustness mechanisms inspired by redundancy and topological stability concepts.
+- NeuroScope - Transformer Interpretability Research  
+  Mechanistic interpretability framework for analyzing transformer models, focusing on attention mechanisms, residual streams, logit lens projections, and circuit-level behavior in GPT-style architectures.
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+
+- quantum-qkd-simulator - Quantum Key Distribution Simulator  
+  Simulation of BB84 quantum key distribution under realistic noise models and intercept-resend attacks, with robustness analysis inspired by redundancy and stability concepts in information security systems.
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-- NeuroScope - Transformer Interpretability Research  
-  Analysis of neural network internals focusing on attention mechanisms, residual streams, and interpretability of high-dimensional representations in transformer models.
-
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 
 - Data Breach Intelligence Dashboard  
   Cybersecurity analytics platform for exploring simulated breach patterns, risk structures, and sector-based vulnerability analysis through interactive visualization.
