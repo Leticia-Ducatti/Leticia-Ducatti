@@ -4,15 +4,32 @@
 
 # Letícia Ducatti
 
-## Data Science | AI Security | Machine Learning | Cybersecurity 
+## Machine Learning | AI Security | Cybersecurity | Data Science
 
-Computer Science and Mathematics background focused on Data Science and Cybersecurity, with strong foundations in linear algebra, probability, statistics, graph theory, and Topological Data Analysis (TDA).
+Computer Science and Mathematics background focused on Data Science, Cybersecurity, and trustworthy AI, with foundations in linear algebra, probability, statistics, graph theory, and Topological Data Analysis (TDA).
 
-I work at the intersection of machine learning, cybersecurity, and data-driven systems, focusing on building robust, interpretable, and secure analytical models.
+I build machine learning and security projects focused on robust, interpretable, and reliable AI systems, exploring anomaly detection, model behavior, and AI safety.
+
+Currently exploring:
+
+- AI Security & LLM vulnerabilities
+- Adversarial Machine Learning
+- Anomaly Detection
+- Graph Neural Networks
+- Topological Data Analysis
+- AI Governance
 
 ---
 
 ### Featured Projects
+
+- SentinelAI - LLM Security & AI Guardrails Platform  
+  Security and observability layer for LLM applications. A FastAPI service that provides inline guardrails for AI systems by detecting prompt injection, anomalous behavior, exposure risks, and adversarial patterns.
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![AI Security](https://img.shields.io/badge/-AI%20Security-2D3748?style=flat-square)
 
 - NeuroScope - Transformer Interpretability Research  
   Mechanistic interpretability framework for analyzing transformer models, focusing on attention mechanisms, residual streams, logit lens projections, and circuit-level behavior in GPT-style architectures.
@@ -52,6 +69,7 @@ I work at the intersection of machine learning, cybersecurity, and data-driven s
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/-PyTorch%20Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -66,7 +84,7 @@ I work at the intersection of machine learning, cybersecurity, and data-driven s
 ![OpenSSL](https://img.shields.io/badge/-OpenSSL-2D3748?style=flat-square&logo=openssl&logoColor=white)
 ![GPG](https://img.shields.io/badge/-GPG-2D3748?style=flat-square&logo=gnupg&logoColor=white)
 
-Threat modeling, adversarial machine learning, data poisoning analysis, encryption systems, and secure communication design.
+Threat modeling, adversarial machine learning, data poisoning analysis, LLM security, encryption systems, and secure communication design.
 
 ---
 
