@@ -31,12 +31,21 @@ Currently exploring:
   ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![AI Security](https://img.shields.io/badge/-AI%20Security-2D3748?style=flat-square)
 
+
 - NeuroScope - Transformer Interpretability Research  
   Mechanistic interpretability framework for analyzing transformer models, focusing on attention mechanisms, residual streams, logit lens projections, and circuit-level behavior in GPT-style architectures.
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+
+- Barcode - Topological Anomaly Detection  
+  Cybersecurity anomaly detection project applying Topological Data Analysis and machine learning methods to identify abnormal patterns in network data.
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 - quantum-qkd-simulator - Quantum Key Distribution Simulator  
   Simulation of BB84 quantum key distribution under realistic noise models and intercept-resend attacks, with robustness analysis inspired by redundancy and stability concepts in information security systems.
