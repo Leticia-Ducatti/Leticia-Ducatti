@@ -4,7 +4,7 @@
 
 # Letícia Ducatti
 
-## Data Scientist | AI Security Researcher | Machine Learning Robustness
+## Data Science | AI Security | Machine Learning | Cybersecurity 
 
 Computer Science and Mathematics background focused on Data Science and Cybersecurity, with strong foundations in linear algebra, probability, statistics, graph theory, and Topological Data Analysis (TDA).
 
