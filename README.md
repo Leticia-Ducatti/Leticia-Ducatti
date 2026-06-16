@@ -23,23 +23,25 @@ Currently exploring:
 
 ### Featured Projects
 
-- SentinelAI - LLM Security & AI Guardrails Platform  
-  Security and observability layer for LLM applications. A FastAPI service that provides inline guardrails for AI systems by detecting prompt injection, anomalous behavior, exposure risks, and adversarial patterns.
+- **SentinelAI** - LLM Security & AI Guardrails Platform  
+  Production-grade risk monitoring guardrail for LLM applications. FastAPI service providing inline security for AI systems with supervised injection classification (AUC 0.94), anomaly detection, exposure scanning, air-gapped red-team robustness testing, content-free audit logging, and Prometheus/OpenTelemetry observability. Includes interactive console playground with gradient UI and EU AI Act alignment.
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![sentence-transformers](https://img.shields.io/badge/-Sentence--Transformers-000000?style=flat-square)
+  ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![AI Security](https://img.shields.io/badge/-AI%20Security-2D3748?style=flat-square)
 
-
-- NeuroScope - Transformer Interpretability Research  
+- **NeuroScope** - Transformer Interpretability Research  
   Mechanistic interpretability framework for analyzing transformer models, focusing on attention mechanisms, residual streams, logit lens projections, and circuit-level behavior in GPT-style architectures.
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 
-- Barcode - Topological Anomaly Detection  
+- **Barcode** - Topological Anomaly Detection  
   Cybersecurity anomaly detection project applying Topological Data Analysis and machine learning methods to identify abnormal patterns in network data.
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,7 +49,7 @@ Currently exploring:
   ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-- quantum-qkd-simulator - Quantum Key Distribution Simulator  
+- **quantum-qkd-simulator** - Quantum Key Distribution Simulator  
   Simulation of BB84 quantum key distribution under realistic noise models and intercept-resend attacks, with robustness analysis inspired by redundancy and stability concepts in information security systems.
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,7 +57,7 @@ Currently exploring:
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-- Data Breach Intelligence Dashboard  
+- **Data Breach Intelligence Dashboard**  
   Cybersecurity analytics platform for exploring simulated breach patterns, risk structures, and sector-based vulnerability analysis through interactive visualization.
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -79,6 +81,7 @@ Currently exploring:
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyTorch Geometric](https://img.shields.io/badge/-PyTorch%20Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
